@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceland&family=Kode+Mono:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1, h2 {
+  font-family: "Iceland", sans-serif;
+  font-weight: 600;
+  font-size: xxx-large;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+#guesses_remain {
+  font-family: "Iceland", sans-serif;
+  font-weight: 300;
+  font-size: xx-large;
+
+}
+.button {
+  text-align: center;
+}
